@@ -1,0 +1,38 @@
+
+
+1. Good afternoon everyone ! My name is Sujoy Seal . I am from CSE department and currently 
+enrolled in 4th year .
+
+
+Himanshu's intro :  .......................
+
+
+Today , we will present the final version of : Blind’s Eye : IoT based real-time surrounding identification 
+and object detection . Professor Tufan Saha has been our mentor for this project . Lets get 
+started !
+
+
+3. Problem : 285 million people in the world who are visually impaired of whom 39 million are 
+blind . Without other person's help , they can rarely carry out day to day activity . In today's
+busy world of traffic and frauds , this has become a major problem .We want to help them .
+ 
+
+
+5. Approach : We recieve surrounding image in real time through camera . They are passed to our ML model
+which makes itelligent predictions . The output text is then converted to speech . The speech is let out 
+as sound to the earpiece which is carried by the user .
+
+
+
+7. Code : This is a small code snippet from YOLO v3  which shows our implementation . We perform image cropping 
+and pass on this image to a series of convolutional layers . The final output layer gives the desired 
+output
+
+
+9. In the output section we can see that the cars have been identified . The device provides the neccesary
+instructions.
+
+
+10. These are the references we have taken.
+
+
